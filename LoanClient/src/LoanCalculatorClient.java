@@ -146,6 +146,7 @@ public class LoanCalculatorClient extends JFrame implements ActionListener {
                 ); // end call to SwingUtilities.invokeLater
     }
 
+	//main
     public static void main(String[] args) {
 
         try {
