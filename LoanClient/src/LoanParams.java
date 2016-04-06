@@ -5,7 +5,7 @@ import java.io.Serializable;
 
 public class LoanParams implements Serializable {
 
-        private String ClientId;
+    private String ClientId;
 
 	private double inrestRate;
 
